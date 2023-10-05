@@ -15,7 +15,8 @@ Ad 3. This is used if you have a question on the toolkit, which is not a bug or 
 These can be posted via the discsusion forum. If you create a new discusion you can select Question and answer.
 
 Some general remarks:
-1. Please note that adding ESDL files to an issue is not posisble. Therefor please zip the file and then add it.
+1. Please note that adding ESDL files to an issue is not possible. Therefor either add .txt add the end of the file name (after .esdl
+ or zip the file and then add it.
 2. Please always check if an bug or feature or question has already been asked to avoid duplicates.
 3. We will try to give you a first reply within a week.
 
