@@ -1,5 +1,5 @@
 name: Questions
-description: Please post your question here: https://github.com/Project-OMOTES/user_feedback/discussions/new/choose
+description: Please post your question here
 title: "[Question]: "
 labels: ["Question"]
 assignees: ["samvanderzwan"]
@@ -8,8 +8,8 @@ body:
   - type: checkboxes
     attributes:
       label: Please read the above
-      description: Please read the above and go to https://github.com/Project-OMOTES/user_feedback/discussions/new/choose for submitting a questions
+      description: Please read the above and go to for submitting a questions
       options:
-        - label: I do know that I should ask a question here: https://github.com/Project-OMOTES/user_feedback/discussions/new/choose
+        - label: I do know that I should ask a question here: 
           required: true
 
