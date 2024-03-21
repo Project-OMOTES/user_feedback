@@ -1,5 +1,5 @@
 name: Questions
-description: Please post your question [here](https://github.com/Project-OMOTES/user_feedback/discussions/new?category=q-a)
+description: Questions can be posted in the discusion forum see below.
 title: "[Question]: "
 labels: ["Question"]
 assignees: ["samvanderzwan"]
@@ -7,8 +7,8 @@ assignees: ["samvanderzwan"]
 body:
   - type: checkboxes
     attributes:
-      label: Please read the above
-      description: Please read the above and go [here](https://github.com/Project-OMOTES/user_feedback/discussions/new?category=q-a) for submitting a questions.
+      label: Where to post questions
+      description: Please post questions in the discusion forum [here](https://github.com/Project-OMOTES/user_feedback/discussions/new?category=q-a).
       options:
-        - label: I do know that I should ask a question [here](https://github.com/Project-OMOTES/user_feedback/discussions/new?category=q-a)
+        - label: I know that I should ask a question [here](https://github.com/Project-OMOTES/user_feedback/discussions/new?category=q-a)
           required: true
