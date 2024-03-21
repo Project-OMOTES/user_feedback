@@ -1,11 +1,11 @@
 name: Questions
 description: You think somethings is broken in the UI
-title: "[Bug]: "
-labels: ["bug"]
+title: "[Question]: "
+labels: ["Question"]
 assignees: ["samvanderzwan"]
 
 body:
   - type: markdown
     attributes:
       value: |
-        *Please follow this link to ask a question: https://github.com/Project-OMOTES/user_feedback/discussions/new?category=q-a*
+        *Please fill this form with as much information as possible*
